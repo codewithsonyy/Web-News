@@ -1,0 +1,197 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Kelsey Vlamis",
+      "title": "Trump media co-founder says Trump pushed exec to give Melania shares: WaPo - Business Insider",
+      "description": "Trump Media co-founder Andy Litinsky said Trump threatened to \"blow up the company,\" according to an email obtained by The Washington Post.",
+      "url": "https://www.businessinsider.com/trump-media-co-founder-trump-pushed-exec-shares-to-melania-2022-10",
+      "urlToImage": "https://i.insider.com/634b64dd410f43001814761e?width=1200&format=jpeg",
+      "publishedAt": "2022-10-16T04:44:36Z",
+      "content": "A co-founder of Trump Media &amp; Technology Group, the company behind Truth Social, said former President Donald Trump pushed another executive to give some of his shares to Melania Trump and retali… [+3135 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Frank Pallotta",
+      "title": "'SNL' takes on the January 6 Committee and Trump - CNN",
+      "description": "\"Saturday Night Live\" opened this week's episode taking on one of the most notable moments in news as of late: the House Select Committee investigating the January 6, 2021, insurrection.",
+      "url": "https://www.cnn.com/2022/10/16/media/snl-january-6-committee/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221015234227-02-snl-cold-open-card.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-16T04:37:00Z",
+      "content": "Saturday Night Live opened this weeks episode taking on one of the most notable moments in news as of late: the House Select Committee investigating the January 6, 2021, insurrection.\r\nKenan Thompson… [+3246 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Evin prison fire: Gun shots and sirens heard at Iran's notorious detention centre - BBC",
+      "description": "It is unclear if the fire is linked to recent protests, but many protesters are being held at Evin prison.",
+      "url": "https://www.bbc.com/news/world-asia-63271817",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151EB/production/_127170568_capture1.jpg",
+      "publishedAt": "2022-10-16T04:05:01Z",
+      "content": "Media caption, Iran prison fire: Gunshots and sirens heard on videos\r\nA major fire broke out on Saturday at Iran's notorious Evin prison, known for housing political prisoners, journalists and foreig… [+3916 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Ryan McGee",
+      "title": "Tennessee beats Alabama -- Celebratory cigars and a party 16 years in the making - ESPN",
+      "description": "Tennessee hadn't beaten Alabama since 2006. But it was worth the wait for the thousands of orange-clad fans who finally got to take part in the rivalry's tradition of lighting up a victory cigar.",
+      "url": "https://www.espn.com/college-football/story/_/id/34804523/tennessee-beats-alabama-celebratory-cigars-party-16-years-making",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1016%2Fr1076350_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-10-16T03:45:10Z",
+      "content": "KNOXVILLE, Tenn. -- The cigars were everywhere in Knoxville on Saturday morning.\r\nProblem is, the University of Tennessee is a tobacco-free campus. It has been for decades. So, a not-small percentage… [+7056 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "The Times of Israel" },
+      "author": null,
+      "title": "Over a month in, how far can the mass Iran protests go? - The Times of Israel",
+      "description": "Leaderless movement shows no sign of dwindling, with protests not just on the streets but at universities, schools and even oil refineries",
+      "url": "https://www.timesofisrael.com/over-a-month-in-how-far-can-the-mass-iran-protests-go/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/10/AP22284473637019-e1665830722636-1024x640.jpg",
+      "publishedAt": "2022-10-16T02:35:59Z",
+      "content": "PARIS, France (AFP) — On an early autumn day in Tehran, the morality police arrested in a city park a 22-year-old Iranian woman who was in the capital on a family visit, bundled her into a van and dr… [+5777 chars]"
+    },
+    {
+      "source": { "id": null, "name": "True Blue LA" },
+      "author": "Eric Stephen",
+      "title": "Dodgers vs. Padres NLDS Game 4 thread - True Blue LA",
+      "description": "The Dodgers battled the Padres in Game 4 of the NLDS at Petco Park in San Diego, needing a win to stay alive.",
+      "url": "https://www.truebluela.com/2022/10/15/23406582/dodgers-padres-nlds-game-4-chat",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/F0lPj826uO4hwqdHAulFfzXUcxM=/0x10:5489x2884/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24112749/usa_today_19241070.jpg",
+      "publishedAt": "2022-10-16T01:53:40Z",
+      "content": "© 2022 Vox Media, LLC. All Rights Reserved\r\n* 21+ (18+ NH/WY). AZ, CO, CT, IL, IN, IA, KS, LA, LS (select parishes), MI, NH, NJ, NY, OR, PA, TN, VA, WV, WY only.Eligibility restrictions apply. Terms … [+102 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Councilwoman Monica Rodriguez, former council member Tony Cardenas demand action - CBS Los Angeles",
+      "description": "As the fallout continues surrounding the leaked audio detailing a racist conversation between LA City Council members Nury Martinez, Kevin de León and Gil Ce...",
+      "url": "https://www.youtube.com/watch?v=yuULNXOp4s4",
+      "urlToImage": "https://i.ytimg.com/vi/yuULNXOp4s4/maxresdefault.jpg",
+      "publishedAt": "2022-10-16T01:33:07Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Maya Yang, Nadeem Badshah",
+      "title": "Russia-Ukraine war latest: what we know on day 235 of the invasion - The Guardian",
+      "description": "Russian volunteers kill at least 11 fellow troops in attack at military base; Elon Musk says SpaceX will keep paying for Starlink satellite internet in Ukraine",
+      "url": "https://www.theguardian.com/world/2022/oct/16/russia-ukraine-war-latest-what-we-know-on-day-235-of-the-invasion",
+      "urlToImage": "https://i.guim.co.uk/img/media/1c2fa7a4b557fa648cf6c045e4e6dd7df05591eb/0_291_4300_2579/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3746c5983a2585aa8b77dc57e542cc7e",
+      "publishedAt": "2022-10-16T01:27:00Z",
+      "content": "<li>At least 11 people were killed and 15 wounded at a military training ground in south-west Russias Belgorod region when two volunteers opened fire on other troops, the Russian defence ministry sai… [+3165 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Zachary Cohen, Whitney Wild",
+      "title": "Secret Service documents handed over to January 6 committee show law enforcement discussed Capitol threats - CNN",
+      "description": "Documents provided to the House Select Committee investigating the January 6, 2021, insurrection by the US Secret Service show that the agency and its law enforcement partners were aware of social media posts that contained violent language and threats aimed …",
+      "url": "https://www.cnn.com/2022/10/15/politics/secret-service-january-6-threats/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221013120316-04-gallery-jan-6-hearing-1013.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-16T01:25:00Z",
+      "content": "Documents provided to the House Select Committee investigating the January 6, 2021, insurrection by the US Secret Service show that the agency and its law enforcement partners were aware of social me… [+4216 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Emmanuel the Emu Sick After Wild Geese, Bird Flu Strike Florida Farm - TMZ",
+      "description": "Emmanuel the Emu is slowly (but surely) recovering after the bird flu hit his owner's farm incredibly hard in the wake of Hurricane Ian.",
+      "url": "https://www.tmz.com/2022/10/15/emmanuel-the-emu-sick-wild-geese-bird-flu-strike-farm/",
+      "urlToImage": "https://imagez.tmz.com/image/9e/16by9/2022/07/16/9e5b7f12a4904a3a89f252b3daf6e06b_xl.jpg",
+      "publishedAt": "2022-10-16T01:03:00Z",
+      "content": "Emmanuel the Emu -- a viral sensation from earlier this year -- is near death's door after the bird flu has spread throughout his farm ... killing off a lot of the owners' other animals.\r\nTaylor Blak… [+2508 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GSMArena.com" },
+      "author": "Peter",
+      "title": "Weekly poll results: Pixel 7 series is well loved, could make the Google phones more mainstream - GSMArena.com news - GSMArena.com",
+      "description": "The pre-order period is over, the Pixel 7 and 7 Pro went on sale this Thursday in a number of countries.",
+      "url": "https://www.gsmarena.com/weekly_poll_results_pixel_7_series_is_well_loved_could_make_the_google_phones_more_mainstream-news-56153.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/10/weekly-poll-results-google-pixel-7-duo/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-10-16T00:33:01Z",
+      "content": "Many commenters under last weeks poll have already pre-ordered one of the new Pixels the 2022 models are proving to be quite popular or at least well liked. Maybe Google is right to be making a recor… [+1920 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KCRA Sacramento" },
+      "author": "Greta Serrin",
+      "title": "Suspected Stockton serial killer caught with gun while 'out hunting,' police chief says - KCRA Sacramento",
+      "description": "Wesley Brownlee, 43, was arrested this morning \"while out hunting,\" police chief Stanley McFadden said on Saturday.",
+      "url": "https://www.kcra.com/article/suspected-stockton-serial-killer-arrested-while-out-hunting-police-chief-says/41631651",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stockton-serial-killer-arrest-1665871418.jfif?crop=0.817xw:0.345xh;0.103xw,0.248xh&resize=1200:*",
+      "publishedAt": "2022-10-16T00:14:00Z",
+      "content": "STOCKTON, Calif. —A man has been arrested in Stockton in connection to a series of killings in the city and one in Oakland, authorities announced on Saturday. He could face charges for the murders of… [+4868 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Tony Romm",
+      "title": "Musk suggests openness to continue funding Starlink access in Ukraine - The Washington Post",
+      "description": "Elon Musk on Saturday signaled he could continue funding the Starlink satellite service that is currently providing internet for Ukraine and its military.",
+      "url": "https://www.washingtonpost.com/technology/2022/10/15/elon-musk-ukraine-starlink/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQ56ZWCMUAI63AKTS3XJPMQY2I.jpg&w=1440",
+      "publishedAt": "2022-10-15T23:34:00Z",
+      "content": "Elon Musk on Saturday signaled he could continue funding the Starlink satellite service that is providing internet for Ukraine and its military, raising the prospect that he might back down from his … [+3607 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Alex Jones: Will a huge legal award crush his Infowars empire? - BBC",
+      "description": "The talk show host faces severe financial and legal problems, but shows no signs of changing.",
+      "url": "https://www.bbc.com/news/world-us-canada-63251824",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B547/production/_127170464_80d21b6e-7ec4-4c18-b751-03c22ee65948.jpg",
+      "publishedAt": "2022-10-15T23:24:19Z",
+      "content": "Conspiracy theorist Alex Jones was handed a major defeat in a Connecticut court this week. But will relatives of the Sandy Hook victims be able to collect the money - and does it mean he'll stop spre… [+4781 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Ashley Joy Parker",
+      "title": "Behati Prinsloo Is All Smiles As She Shows Off Her Baby Bump After Adam Levine DM Scandal - E! NEWS",
+      "description": "Nearly one month after Adam Levine denied he had cheated on Behati Prinsloo, the model posted a video of her growing baby bump as she prepares to welcome the couple's third child.",
+      "url": "https://www.eonline.com/news/1350678/behati-prinsloo-is-all-smiles-as-she-shows-off-her-baby-bump-after-adam-levine-dm-scandal",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022915/rs_1200x1200-221015134021-1200-Behati-Prinsloo-KD-101522.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-10-15T21:52:00Z",
+      "content": "Bumpin' along. \r\nWeeks after Adam Levine admitted to behaving inappropriately online following cheating allegations, his pregnant wife Behati Prinsloo proved she is happily focused on baby no. 3.\r\nPo… [+1006 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Detroit Free Press" },
+      "author": ", Detroit Free Press",
+      "title": "Michigan football run game punishes Penn State in 41-17 blitz - Detroit Free Press",
+      "description": "Michigan Wolverines football imposed its will on the ground against Penn State, ripping off two scores of more than 60 yards in a 41-17 win",
+      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2022/10/15/michigan-football-game-score-penn-state-nittany-lions/69565428007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/15/PDTF/8d8bd327-15ad-47d9-95ce-1ae16a026637-MichPenn_101522_kd_0013936.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2022-10-15T21:33:45Z",
+      "content": "The crowd roared as the 1997 national championship team lined up shoulder-to-shoulder from pylon to pylon along the north end zone.\r\nThey stood in ovation for Lloyd Carr on the day the tunnel was nam… [+7930 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "William Hughes",
+      "title": "Daniel Radcliffe, Emma Watson, and more pay tribute to Harry Potter co-star Robbie Coltrane - The A.V. Club",
+      "description": "Coltrane, who played Hagrid in the series, died this week at the age of 72",
+      "url": "https://www.avclub.com/daniel-radcliffe-emma-watson-harry-potters-robbie-coltr-1849663126",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8107816f9965f597f91da670501230bc.jpg",
+      "publishedAt": "2022-10-15T21:06:00Z",
+      "content": "Robbie Coltrane died this week, ending a career that spanned decades of both comedy and dramabut which, for many, will always be synonymous with the Harry Potter film franchise, where Coltrane spent … [+2546 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "As UK's Truss fights for job, new finance minister says she made mistakes - Reuters UK",
+      "description": "Britain's new finance minister Jeremy Hunt said on Saturday some taxes would go up and tough spending decisions were needed, saying Prime Minister Liz Truss had made mistakes as she battles to keep her job just over a month into her term.",
+      "url": "https://www.reuters.com/world/uk/new-uk-finance-minister-warns-some-taxes-will-rise-difficult-decisions-loom-2022-10-15/",
+      "urlToImage": "https://www.reuters.com/resizer/59pgRF_tkSbcngy2VeBmH7OEENM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DY56DTJN4VJ3BFJ2NQ6ITMRPVY.jpg",
+      "publishedAt": "2022-10-15T20:52:00Z",
+      "content": "LONDON, Oct 15 (Reuters) - Britain's new finance minister Jeremy Hunt said on Saturday some taxes would go up and tough spending decisions were needed, saying Prime Minister Liz Truss had made mistak… [+5858 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/kris-holt",
+      "title": "Razer’s cloud gaming handheld starts at $400 for the WiFi-only model - Engadget",
+      "description": "A 5G version of the Razer Edge is also coming in January, but pricing is currently unknown..",
+      "url": "https://www.engadget.com/razer-edge-5g-gaming-handheld-android-verizon-qualcomm-180049076.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/a7fe58c0-4bd3-11ed-93ef-b62e747c67b6",
+      "publishedAt": "2022-10-15T18:01:17Z",
+      "content": "Razer, you may recall, recently teased a 5G handheld device that's focused on cloud gaming. The company took the opportunity at RazerCon to formally announce the system, which it calls the Razer Edge… [+4026 chars]"
+    }
+  ]
+}
